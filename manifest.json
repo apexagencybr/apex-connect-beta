@@ -1,19 +1,18 @@
 {
-  "name": "Apex Connect",
-  "short_name": "Apex Connect",
-  "description": "Dashboard individual da Apex Agency",
-  "start_url": "./",
+  "name": "Apex Connect Beta",
+  "short_name": "Apex Beta",
+  "start_url": "/apex-connect-beta/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "icon-192_clean.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512_clean.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
